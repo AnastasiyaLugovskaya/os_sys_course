@@ -1,0 +1,27 @@
+class SorterValues:
+    SORTING_CATEGORIES = {
+        "jpg": "Images",
+        "jpeg": "Images",
+        "png": "Images",
+        "gif": "Images",
+        'svg': 'Images',
+        "mp4": "Video",
+        "avi": "Video",
+        "mov": "Video",
+        "mkv": "Video",
+        "mp3": "Audio",
+        "wav": "Audio",
+        "amr": "Audio",
+        "ogg": "Audio",
+        "doc": "Documents",
+        "docx": "Documents",
+        "txt": "Documents",
+        "pdf": "Documents",
+        "xlsx": "Documents",
+        "pptx": "Documents",
+        "zip": "Archives",
+        "tar": "Archives",
+        "gz": "Archives",
+        "rar": "Archives",
+        "": "Others"
+    }
