@@ -1,0 +1,6 @@
+[2025-09-17 10:00:00] INFO: Application started successfully.
+[2025-09-17 10:01:15] DEBUG: User 'Alice' logged in.
+[2025-09-17 10:02:30] WARNING: Disk space is running low.
+[2025-09-17 10:03:00] ERROR: Failed to connect to database 'main_db'.
+[2025-09-17 10:03:05] INFO: Retrying connection...
+[2025-09-17 10:04:00] Error: Database connection timeout.
